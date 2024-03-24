@@ -1,0 +1,20 @@
+1710267499086:ccwc
+1710267504584:ccwc 4
+1710267510151:ccwc 11 22
+1710268211360:clear
+1710268223554:ccwc -c hello.txt
+1711198300804:ccwc -hello
+1711198313646:ccwc
+1711200243291:ls
+1711200246621:exit
+1711219381155:help
+1711219391704:ccwc
+1711219411599:ccwc C:\\\\Users\\\\ASUS\\\\Desktop\\\\Projects\\\\wc_tool\\\\wctool\\\\externalFiles\\\\test.txt
+1711219589941:ccwc -c C:\\\\Users\\\\ASUS\\\\Desktop\\\\Projects\\\\wc_tool\\\\wctool\\\\externalFiles\\\\test.txt
+1711219613367:wc -c C:\\\\Users\\\\ASUS\\\\Desktop\\\\Projects\\\\wc_tool\\\\wctool\\\\externalFiles\\\\test.txt
+1711219705170:ccwc -l C:\\\\Users\\\\ASUS\\\\Desktop\\\\Projects\\\\wc_tool\\\\wctool\\\\externalFiles\\\\test.txt
+1711219721187:exit
+1711282079404:ccwc -c
+1711282712371:ccwc
+1711283359909:ccwc -l
+1711283433770:exit
